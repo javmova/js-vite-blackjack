@@ -2,7 +2,7 @@
 
 ### Ejercicio realizado por curso de JavaScript de Fernando Herrera
 
-## Pasos para ejecutar el proyecto:
+## Pasos para ejecutar el proyecto
 
 1. Clonar repositorio
 2. Ejecutar ```npm install``` para reconstruir los módulos de node
